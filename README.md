@@ -56,6 +56,10 @@ The finished program is `src/dist/OoT_Multiplayer.exe`. You can also just run `p
 - Night skeletons are separate on each PC.
 - Only works with the game version we play on; a game update breaks the mod. Emulator updates usually work, but test on one PC first.
 
+## License
+
+Free for personal, non-commercial play. Copying, modifying or reusing the code, redistribution and commercial use are not allowed without permission – see [LICENSE](LICENSE).
+
 ## Credits
 
 Made by **NorPat** – for father–daughter co-op in Hyrule.
