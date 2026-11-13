@@ -58,7 +58,7 @@ The finished program is `src/dist/OoT_Multiplayer.exe`. You can also just run `p
 
 ## License
 
-Free for personal, non-commercial play. Copying, modifying or reusing the code, redistribution and commercial use are not allowed without permission – see [LICENSE](LICENSE).
+Copyright (C) 2026 NorPat. This project is licensed under the **GNU General Public License v3.0** – see [LICENSE](LICENSE). You may use, study, share and modify it under the terms of the GPLv3; derived works must also be released under the GPLv3.
 
 ## Credits
 
