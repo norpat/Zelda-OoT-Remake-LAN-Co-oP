@@ -31,7 +31,7 @@ Each player runs the game on their own PC. The mod connects the two games over t
 ## Install
 
 1. Copy the patch files from [`patches/`](patches/) into Lichii's mod folder on **both** PCs:
-   `user\load\0400486024DEC000\OoT_MP_Test\exefs\`
+   In Lichii: right-click the game → **Open Mod Data Location**, and put them in a new folder `OoT_MP_Test/exefs/` there.
 2. Start the game in Lichii and load your save on both PCs.
 3. Run the mod on both PCs (see *Build*), type a name, and press **Connect** on one of them (or pick your friend from the list).
 
