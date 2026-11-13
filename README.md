@@ -24,7 +24,7 @@ Each player runs the game on their own PC. The mod connects the two games over t
 ## What you need
 
 - A Windows PC per player, both on the same local network.
-- **Your own legal copy** of Ocarina of Time for Switch 2 (title ID `0400486024DEC000`, version v131072) – this repository contains **no** game files, keys or ROMs.
+- **Your own legal copy** of Ocarina of Time for Switch 2 – this repository contains **no** game files, keys or ROMs.
 - The Lichii emulator (tested with build-160).
 - Python 3.12 if you want to build the mod yourself.
 
@@ -56,7 +56,7 @@ Optional: put the fan font *Hylia Serif Beta* as `src/assets/HyliaSerif.otf` for
 - Bosses are not synced yet (each player fights their own boss; the victory is shared through world flags).
 - Damage dealt to an enemy steered by the other PC is not shared yet.
 - Night skeletons are separate on each PC.
-- Only works with game version v131072. Updating the game breaks the mod. Emulator updates usually work, but test on one PC first.
+- Only works with the game version we play on; a game update breaks the mod. Emulator updates usually work, but test on one PC first.
 
 ## Credits
 
