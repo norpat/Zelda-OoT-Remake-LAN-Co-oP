@@ -11,4 +11,3 @@ agent_*.json
 main_true.bin
 *.nso
 *.nup
-src/assets/*.otf

@@ -49,8 +49,6 @@ python -m PyInstaller --noconfirm OoT_Multiplayer.spec
 
 The finished program is `src/dist/OoT_Multiplayer.exe`. You can also just run `python src/oot_mp_gui.py`.
 
-Optional: put the fan font *Hylia Serif Beta* as `src/assets/HyliaSerif.otf` for the Zelda-style headings (not included because of its licence; the mod falls back to a normal font).
-
 ## Known limitations
 
 - Bosses are not synced yet (each player fights their own boss; the victory is shared through world flags).
