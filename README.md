@@ -64,4 +64,8 @@ Copyright (C) 2026 NorPat. This project is licensed under the **GNU General Publ
 
 Made by **NorPat** – for father–daughter co-op in Hyrule.
 
+### Thanks
+
+- **[daurosk/oot-remake-multiplayer](https://github.com/daurosk/oot-remake-multiplayer)** (GPLv3) – their research and documentation on how the game handles enemies, bosses and flags helped this project a lot. Anything taken from their work is credited here.
+
 *The Legend of Zelda* is a trademark of Nintendo. This is an unofficial fan project and is not affiliated with or endorsed by Nintendo.
