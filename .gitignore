@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.exe
+logs/
+*.log
+config.json
+figur.json
+agent_*.json
+main_true.bin
+*.nso
+*.nup
+src/assets/*.otf
