@@ -67,5 +67,6 @@ Made by **NorPat** – for father–daughter co-op in Hyrule.
 ### Thanks
 
 - **[daurosk/oot-remake-multiplayer](https://github.com/daurosk/oot-remake-multiplayer)** (GPLv3) – their research and documentation on how the game handles enemies, bosses and flags helped this project a lot. Anything taken from their work is credited here.
+  - The live actor list (actor node at +0x538) used for the enemy search, and the idea of pausing the AI of enemy copies, come from their `docs/objects.md`.
 
 *The Legend of Zelda* is a trademark of Nintendo. This is an unofficial fan project and is not affiliated with or endorsed by Nintendo.
